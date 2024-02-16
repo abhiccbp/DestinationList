@@ -1,0 +1,13 @@
+.img {
+  height: 130px;
+  width: 180px;
+  padding: 20px;
+}
+.liCont {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+}
+.para {
+  padding-left: 20px;
+}

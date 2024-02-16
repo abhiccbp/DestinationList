@@ -1,0 +1,35 @@
+.container1 {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+  margin: 80px;
+  width: 550px;
+  box-shadow: 5px 5px 16px;
+}
+
+.ulContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+.main {
+  display: flex;
+  justify-content: center;
+}
+.seachContainer {
+  background-color: #f1f5f9;
+  display: flex;
+  border-radius: 7px;
+  padding: 5px;
+}
+.searchIcon {
+  height: 30px;
+  padding: 5px;
+}
+.input {
+  border-radius: 7px;
+  background-color: #f1f5f9;
+  border-width: 0px;
+}
